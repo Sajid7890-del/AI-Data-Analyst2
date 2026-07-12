@@ -1,0 +1,201 @@
+Date,Product,Category,Region,Quantity,Price,Sales,Rating
+2026-04-13,MacBook Air,Laptops,North,4,966.2,3864.8,4.3
+2026-06-29,AirPods Pro,Audio,East,3,237.91,713.73,3.9
+2026-04-03,Apple Watch S9,Wearables,West,2,397.02,794.04,4.3
+2026-01-15,iPhone 15,Smartphones,North,4,780.01,3120.04,4.5
+2026-04-17,iPad Pro,Tablets,West,4,800.31,3201.24,3.5
+2026-03-13,iPad Pro,Tablets,East,3,760.89,2282.67,3.6
+2026-01-21,iPhone 15,Smartphones,North,2,819.5,1639.0,4.5
+2026-04-13,iPhone 15,Smartphones,North,2,829.92,1659.84,4.8
+2026-05-02,iPad Pro,Tablets,East,4,740.07,2960.28,5.0
+2026-03-16,AirPods Pro,Audio,West,1,233.13,233.13,3.6
+2026-03-29,AirPods Pro,Audio,North,5,257.07,1285.35,3.8
+2026-04-27,iPhone 15,Smartphones,East,3,806.11,2418.33,4.8
+2026-04-10,iPhone 15,Smartphones,West,4,729.18,2916.72,3.7
+2026-04-14,AirPods Pro,Audio,South,3,238.0,714.0,4.9
+2026-06-01,iPhone 15,Smartphones,North,2,738.37,1476.74,4.3
+2026-05-11,iPad Pro,Tablets,West,5,745.98,3729.9,4.6
+2026-05-30,iPhone 15,Smartphones,South,5,740.53,3702.65,4.0
+2026-02-22,iPad Pro,Tablets,North,1,784.12,784.12,4.3
+2026-01-02,Apple Watch S9,Wearables,East,3,385.1,1155.3,4.0
+2026-03-29,iPhone 15,Smartphones,West,1,742.5,742.5,4.6
+2026-06-07,iPad Pro,Tablets,West,3,811.21,2433.63,3.6
+2026-02-07,AirPods Pro,Audio,West,5,234.54,1172.7,4.8
+2026-05-10,AirPods Pro,Audio,North,5,258.77,1293.85,4.1
+2026-01-21,Apple Watch S9,Wearables,East,3,417.77,1253.31,3.6
+2026-06-10,Apple Watch S9,Wearables,North,1,378.07,378.07,3.8
+2026-02-27,iPhone 15,Smartphones,South,2,830.56,1661.12,3.6
+2026-01-22,MacBook Air,Laptops,West,2,937.19,1874.38,3.9
+2026-03-30,MacBook Air,Laptops,North,1,919.57,919.57,4.6
+2026-02-18,Apple Watch S9,Wearables,South,2,407.59,815.18,4.8
+2026-02-28,Apple Watch S9,Wearables,West,2,359.41,718.82,4.4
+2026-06-19,AirPods Pro,Audio,North,4,257.22,1028.88,3.5
+2026-01-15,MacBook Air,Laptops,South,3,968.87,2906.61,4.3
+2026-06-24,Apple Watch S9,Wearables,South,2,410.6,821.2,3.9
+2026-02-20,MacBook Air,Laptops,South,3,918.14,2754.42,4.3
+2026-04-18,Apple Watch S9,Wearables,West,4,416.87,1667.48,4.2
+2026-02-24,Apple Watch S9,Wearables,West,4,383.72,1534.88,4.5
+2026-03-05,AirPods Pro,Audio,West,5,260.31,1301.55,4.6
+2026-05-11,iPad Pro,Tablets,North,3,771.71,2315.13,3.6
+2026-02-20,Apple Watch S9,Wearables,South,5,363.94,1819.7,4.1
+2026-05-15,AirPods Pro,Audio,North,1,230.57,230.57,3.7
+2026-01-21,MacBook Air,Laptops,West,1,998.03,998.03,3.9
+2026-03-14,Apple Watch S9,Wearables,East,5,395.71,1978.55,4.1
+2026-06-16,AirPods Pro,Audio,South,3,252.41,757.23,3.5
+2026-01-18,AirPods Pro,Audio,,1,235.73,235.73,5.0
+2026-05-12,Apple Watch S9,Wearables,West,2,404.79,809.58,4.7
+2026-03-30,AirPods Pro,Audio,North,5,238.98,1194.9,4.4
+2026-03-01,Apple Watch S9,Wearables,West,2,374.71,749.42,3.5
+2026-01-14,iPad Pro,Tablets,South,1,783.74,783.74,4.5
+2026-01-09,MacBook Air,Laptops,North,4,986.88,3947.52,4.9
+2026-03-31,AirPods Pro,Audio,South,3,248.13,744.39,4.2
+2026-02-22,iPad Pro,Tablets,East,5,794.12,3970.6,4.7
+2026-05-10,MacBook Air,Laptops,East,4,940.15,3760.6,3.8
+2026-03-25,MacBook Air,Laptops,North,3,991.75,2975.25,4.0
+2026-04-02,MacBook Air,Laptops,West,5,1025.7,5128.5,3.5
+2026-04-21,MacBook Air,Laptops,East,1,973.43,973.43,4.5
+2026-06-21,MacBook Air,Laptops,North,3,1030.59,3091.77,4.6
+2026-01-08,Apple Watch S9,Wearables,North,1,391.9,391.9,4.1
+2026-06-24,iPad Pro,Tablets,North,3,768.55,2305.65,4.1
+2026-02-04,Apple Watch S9,Wearables,West,1,399.79,399.79,4.6
+2026-03-22,iPad Pro,Tablets,North,1,783.14,783.14,4.2
+2026-06-13,iPhone 15,Smartphones,South,5,826.43,4132.15,4.1
+2026-02-19,AirPods Pro,Audio,North,1,255.74,255.74,4.0
+2026-04-14,AirPods Pro,Audio,South,4,245.52,982.08,4.4
+2026-05-12,Apple Watch S9,Wearables,North,3,395.16,1185.48,4.3
+2026-01-02,Apple Watch S9,Wearables,West,5,406.48,2032.4,4.7
+2026-05-14,Apple Watch S9,Wearables,North,2,417.41,834.82,5.0
+2026-02-23,MacBook Air,Laptops,North,3,1032.12,3096.36,4.0
+2026-04-16,MacBook Air,Laptops,East,4,1002.2,4008.8,4.8
+2026-01-04,iPhone 15,Smartphones,North,5,745.78,3728.9,4.1
+2026-02-23,iPad Pro,Tablets,South,2,728.85,1457.7,3.6
+2026-05-26,iPad Pro,Tablets,West,5,763.52,3817.6,4.7
+2026-02-13,iPhone 15,Smartphones,North,4,761.07,3044.28,4.6
+2026-06-11,iPad Pro,Tablets,North,4,786.02,3144.08,4.1
+2026-01-14,MacBook Air,Laptops,East,3,937.11,2811.33,4.1
+2026-04-05,MacBook Air,Laptops,West,4,1014.06,4056.24,4.7
+2026-02-17,iPhone 15,Smartphones,East,5,747.57,3737.85,4.1
+2026-01-15,AirPods Pro,Audio,North,1,256.54,256.54,3.8
+2026-02-09,MacBook Air,Laptops,West,5,1044.44,5222.2,3.6
+2026-03-23,Apple Watch S9,Wearables,West,5,418.53,2092.65,3.6
+2026-04-21,iPad Pro,Tablets,East,4,728.14,2912.56,3.7
+2026-02-22,iPhone 15,Smartphones,South,1,794.31,794.31,4.4
+2026-01-24,iPhone 15,Smartphones,East,4,834.0,3336.0,3.6
+2026-06-03,AirPods Pro,Audio,West,4,236.64,946.56,3.8
+2026-05-04,AirPods Pro,Audio,South,2,232.67,465.34,3.9
+2026-02-10,Apple Watch S9,Wearables,North,4,418.12,1672.48,4.5
+2026-06-06,iPhone 15,Smartphones,North,1,768.38,768.38,4.4
+2026-01-15,Apple Watch S9,Wearables,North,3,408.33,1224.99,4.9
+2026-02-14,Apple Watch S9,Wearables,East,1,384.13,384.13,4.9
+2026-03-06,MacBook Air,Laptops,East,5,923.8,4619.0,4.1
+2026-03-30,iPhone 15,Smartphones,South,1,764.25,764.25,4.6
+2026-03-12,iPhone 15,Smartphones,South,3,820.03,2460.09,4.8
+2026-01-09,MacBook Air,Laptops,North,3,919.16,2757.48,
+2026-03-29,AirPods Pro,Audio,North,5,261.44,1307.2,5.0
+2026-05-09,Apple Watch S9,Wearables,East,5,402.56,2012.8,4.6
+2026-05-16,iPad Pro,Tablets,North,5,773.1,3865.5,3.7
+2026-03-04,iPad Pro,Tablets,North,5,743.94,3719.7,4.8
+2026-05-19,MacBook Air,Laptops,West,2,973.75,1947.5,4.2
+2026-03-22,iPad Pro,Tablets,East,2,821.23,1642.46,4.3
+2026-05-16,Apple Watch S9,Wearables,South,3,383.25,1149.75,3.7
+2026-06-12,Apple Watch S9,Wearables,North,2,407.28,814.56,4.9
+2026-06-12,AirPods Pro,Audio,South,2,246.13,492.26,4.1
+2026-02-02,iPad Pro,Tablets,East,2,760.84,1521.68,4.3
+2026-05-03,AirPods Pro,Audio,South,2,256.31,512.62,4.9
+2026-01-05,AirPods Pro,Audio,South,1,242.48,242.48,3.9
+2026-02-10,Apple Watch S9,Wearables,South,5,379.89,1899.45,3.8
+2026-01-28,iPad Pro,Tablets,West,3,728.19,2184.57,3.7
+2026-05-15,iPad Pro,Tablets,South,4,740.9,2963.6,4.0
+2026-03-13,iPad Pro,Tablets,West,3,780.85,2342.55,5.0
+2026-01-12,Apple Watch S9,Wearables,South,3,361.55,1084.65,3.8
+2026-06-11,AirPods Pro,Audio,South,5,225.29,1126.45,4.3
+2026-02-02,Apple Watch S9,Wearables,North,4,371.45,1485.8,4.0
+2026-02-17,MacBook Air,Laptops,North,3,904.99,2714.97,4.7
+2026-05-31,iPhone 15,Smartphones,South,3,829.47,2488.41,3.6
+2026-03-03,MacBook Air,Laptops,West,1,911.76,911.76,4.4
+2026-02-06,AirPods Pro,Audio,East,2,252.48,504.96,4.3
+2026-04-09,MacBook Air,Laptops,North,2,904.6,1809.2,3.9
+2026-06-21,iPad Pro,Tablets,East,3,782.87,2348.61,3.7
+2026-04-14,MacBook Air,Laptops,South,3,958.62,2875.86,3.7
+2026-02-04,Apple Watch S9,Wearables,West,2,392.85,785.7,4.8
+2026-04-11,MacBook Air,Laptops,South,4,934.05,3736.2,4.0
+2026-06-24,iPhone 15,Smartphones,West,2,813.68,1627.36,4.2
+2026-05-11,AirPods Pro,Audio,East,2,244.93,489.86,4.4
+2026-01-01,AirPods Pro,Audio,East,2,234.7,469.4,4.0
+2026-01-05,MacBook Air,Laptops,West,2,935.72,1871.44,4.2
+2026-05-22,Apple Watch S9,Wearables,North,1,359.55,359.55,3.8
+2026-04-13,AirPods Pro,Audio,South,3,227.38,682.14,4.7
+2026-01-27,iPhone 15,Smartphones,East,3,781.96,2345.88,4.1
+2026-05-17,AirPods Pro,Audio,West,2,245.61,491.22,4.9
+2026-01-15,iPhone 15,Smartphones,South,3,817.48,2452.44,4.6
+2026-03-31,iPad Pro,Tablets,West,2,752.66,1505.32,4.7
+2026-02-11,MacBook Air,Laptops,South,4,962.85,3851.4,4.3
+2026-05-04,iPhone 15,Smartphones,West,1,792.28,792.28,3.9
+2026-06-28,Apple Watch S9,Wearables,South,3,414.88,1244.64,4.0
+2026-03-04,iPad Pro,Tablets,North,2,773.54,1547.08,4.3
+2026-04-06,MacBook Air,Laptops,West,2,947.4,1894.8,4.7
+2026-02-21,iPhone 15,Smartphones,,5,719.42,3597.1,3.7
+2026-04-06,iPad Pro,Tablets,South,1,821.06,821.06,4.6
+2026-05-12,MacBook Air,Laptops,South,5,1008.62,5043.1,
+2026-05-31,AirPods Pro,Audio,East,3,258.7,776.1,4.6
+2026-05-23,AirPods Pro,Audio,West,5,229.32,1146.6,4.7
+2026-06-20,AirPods Pro,Audio,South,3,230.24,690.72,4.7
+2026-01-29,iPad Pro,Tablets,South,2,827.91,1655.82,4.0
+2026-02-05,MacBook Air,Laptops,North,2,1021.47,2042.94,4.2
+2026-01-13,iPad Pro,Tablets,North,1,808.7,808.7,4.3
+2026-06-09,iPhone 15,Smartphones,North,1,766.02,766.02,4.3
+2026-03-12,Apple Watch S9,Wearables,West,3,391.59,1174.77,4.1
+2026-03-27,iPad Pro,Tablets,East,3,759.24,2277.72,3.7
+2026-01-28,Apple Watch S9,Wearables,North,4,403.48,1613.92,4.4
+2026-03-07,Apple Watch S9,Wearables,South,1,377.76,377.76,3.9
+2026-06-19,iPhone 15,Smartphones,South,4,787.4,3149.6,4.6
+2026-02-14,iPad Pro,Tablets,South,1,731.43,731.43,4.3
+2026-03-03,AirPods Pro,Audio,North,4,238.94,955.76,4.7
+2026-05-14,Apple Watch S9,Wearables,North,4,402.33,1609.32,4.6
+2026-01-28,iPad Pro,Tablets,East,4,784.15,3136.6,3.9
+2026-01-28,Apple Watch S9,Wearables,West,3,416.5,1249.5,4.0
+2026-04-18,MacBook Air,Laptops,South,3,922.08,2766.24,4.4
+2026-02-13,MacBook Air,Laptops,North,1,901.81,901.81,4.8
+2026-03-25,AirPods Pro,Audio,,4,258.42,1033.68,4.7
+2026-01-30,Apple Watch S9,Wearables,West,2,405.26,810.52,4.1
+2026-03-16,iPhone 15,Smartphones,South,3,807.36,2422.08,4.9
+2026-05-08,iPad Pro,Tablets,East,1,732.67,732.67,
+2026-04-02,AirPods Pro,Audio,South,1,236.51,236.51,4.0
+2026-05-09,iPad Pro,Tablets,West,5,764.56,3822.8,4.6
+2026-05-01,MacBook Air,Laptops,West,1,899.79,899.79,4.0
+2026-01-27,AirPods Pro,Audio,North,2,258.46,516.92,4.0
+2026-05-01,MacBook Air,Laptops,East,2,1036.73,2073.46,4.4
+2026-04-26,iPad Pro,Tablets,West,3,735.98,2207.94,3.8
+2026-01-03,AirPods Pro,Audio,South,5,258.27,1291.35,4.0
+2026-04-13,iPad Pro,Tablets,South,2,720.67,1441.34,4.5
+2026-06-04,iPhone 15,Smartphones,West,1,736.92,736.92,4.1
+2026-05-17,AirPods Pro,Audio,East,5,230.99,1154.95,3.9
+2026-03-03,Apple Watch S9,Wearables,South,3,371.66,1114.98,4.8
+2026-06-14,Apple Watch S9,Wearables,North,5,381.71,1908.55,4.8
+2026-02-20,iPad Pro,Tablets,South,1,812.05,812.05,4.2
+2026-06-21,MacBook Air,Laptops,South,4,971.19,3884.76,4.2
+2026-06-01,iPad Pro,Tablets,East,4,740.9,2963.6,4.8
+2026-02-28,iPad Pro,Tablets,West,2,751.55,1503.1,4.5
+2026-04-28,AirPods Pro,Audio,North,4,255.47,1021.88,4.8
+2026-06-09,iPhone 15,Smartphones,North,3,746.79,2240.37,4.5
+2026-04-06,Apple Watch S9,Wearables,West,1,406.97,406.97,3.8
+2026-06-29,iPhone 15,Smartphones,West,2,815.62,1631.24,5.0
+2026-04-23,iPad Pro,Tablets,West,4,832.29,3329.16,3.7
+2026-03-03,MacBook Air,Laptops,East,2,911.91,1823.82,3.8
+2026-02-21,iPad Pro,Tablets,West,5,824.14,4120.7,4.5
+2026-01-12,MacBook Air,Laptops,South,1,1021.59,1021.59,4.0
+2026-02-08,MacBook Air,Laptops,East,2,953.5,1907.0,3.6
+2026-05-10,AirPods Pro,Audio,North,5,239.39,1196.95,4.3
+2026-05-11,MacBook Air,Laptops,North,4,931.99,3727.96,5.0
+2026-04-23,AirPods Pro,Audio,West,1,256.54,256.54,4.2
+2026-04-11,iPhone 15,Smartphones,South,3,780.52,2341.56,4.6
+2026-04-23,MacBook Air,Laptops,North,1,937.74,937.74,3.7
+2026-03-22,iPad Pro,Tablets,South,4,734.95,2939.8,4.9
+2026-04-23,MacBook Air,Laptops,East,5,901.86,4509.3,4.9
+2026-01-02,Apple Watch S9,Wearables,South,4,388.91,1555.64,3.6
+2026-05-10,Apple Watch S9,Wearables,North,2,402.2,804.4,3.7
+2026-02-23,Apple Watch S9,Wearables,East,1,375.05,375.05,
+2026-03-28,MacBook Air,Laptops,West,5,998.76,4993.8,3.8
+2026-05-09,Apple Watch S9,Wearables,North,2,383.3,766.6,
+2026-05-27,MacBook Air,Laptops,West,3,926.73,2780.19,3.6
+2026-05-06,iPad Pro,Tablets,South,5,765.76,3828.8,3.9

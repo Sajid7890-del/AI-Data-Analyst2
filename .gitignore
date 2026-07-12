@@ -1,0 +1,26 @@
+# Python compilation files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Databases
+database/*.db
+
+# Uploads and reports (ignore actual data files but keep the folders)
+uploads/*
+!uploads/.gitkeep
+reports/*
+!reports/.gitkeep
+models/*
+!models/.gitkeep
+
+# Operating system files
+.DS_Store
+Thumbs.db
